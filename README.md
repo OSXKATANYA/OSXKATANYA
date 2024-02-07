@@ -1,7 +1,7 @@
 <h1 align="center">I'm OSX</h1>
-- I’m currently learning **JavaScript**
+- I’m currently learning JavaScript
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: xsamzenorth@gmail.com </h3>
 <p align="left">
 </p>
 
