@@ -13,7 +13,8 @@ Saat ini saya sedang belajar bahasa pemrograman<br>JavaScript
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OSXKATANYA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://trakteer.id/Achmdcstllo) 
+  [![BuyMeACoffee]
+  <a href="https://www.buymeacoffee.com/xsamzenortw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
